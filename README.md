@@ -1,7 +1,6 @@
 # Sentiment Analysis - Text Mining
 Sentiment Analysis - Text Mining - Twitter Data - 2016 presidential elections
-
-Sentiment Analysis of Twitter tweets to identify the cause of win/loss of a candidate
+*Analysis of Twitter tweets to identify the cause of win/loss of a candidate*
 
 | Author: Divya Rajendran
 
