@@ -6,7 +6,7 @@ Sentiment Analysis of Twitter tweets related to 2015-16 presidential elections *
 ## Pre-Requisites / Requirements
 Python3 is needed to run this code efficiently
 ### Required Packages
-```python
+```bash
 pip install jupyter pandas seaborn matplotlib preprocessor re unicodedata nltk contractions inflect textblob afinn collections wordcloud
 ```
 Run this piece of code in terminal or cmd prompt, this will install all the required packages needed to run the jupyter notebook.
