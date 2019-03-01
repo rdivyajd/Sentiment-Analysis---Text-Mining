@@ -41,6 +41,8 @@ When comparing all the plots for the five variables for both Trump's tweets and 
 
 3. Also, the Trump made a lot of positive tweets when compared to neutral and negative tweets in stark comparision to Clinton, who made a lot of negative tweets when compared to neutral and positive tweets
 
-4. The word clouds we have plotted show that both the candidates spoke mostly about Trump, increasing his popularity and outreach. It might have also been one of the reasons contributing to his win.
+4. The word clouds we have plotted show that both the candidates spoke mostly about Trump, increasing his popularity and outreach. It might have also been one of the reasons contributing to his win
 
-We can say that sentiment analysis clearly tells us a lot about the electoral wins, we can try to employ similar strategies to different scenarios to understand the effect of sentiment or various other variables on the data and its target.
+5. We would need to consider more tweets data for both the candidates and poll data for different months, to be able to accurately predict the polls using sentiment score for the tweets
+
+**We can say that sentiment analysis clearly tells us a lot about the electoral wins, we can try to employ similar strategies to different scenarios to understand the effect of sentiment or various other variables on the data and its target.**
