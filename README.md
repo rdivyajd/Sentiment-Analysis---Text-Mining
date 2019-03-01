@@ -1,5 +1,6 @@
 # Sentiment Analysis - Text Mining
 Sentiment Analysis - Text Mining - Twitter Data - 2016 presidential elections
+
 *Analysis of Twitter tweets to identify the cause of win/loss of a candidate*
 
 | Author: Divya Rajendran
@@ -15,9 +16,9 @@ This code install all the required packages needed to run the jupyter notebook.
 ## Data
 Historical tweets data is scraped from twitter using twitter API and by making use of Jefferson-Henrique/GetOldTweets-python project code.
 
-*1. Data mined for the candidates Trump and Clinton during the period Jun 2015 - Dec 2016, one month after the results were announced for the presidential election*
+1. *Data mined for the candidates Trump and Clinton during the period Jun 2015 - Dec 2016, one month after the results were announced for the presidential election*
 
-*2. User opinion poll data from various websites consolidated monthly*
+2. *User opinion poll data from various websites consolidated monthly*
 
 
 ## Analysis
