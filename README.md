@@ -11,6 +11,8 @@ pip install jupyter numpy pandas seaborn matplotlib preprocessor re unicodedata 
 ```
 Run this piece of code in terminal or cmd prompt, this will install all the required packages needed to run the jupyter notebook.
 
+CODE: *Sentiment Analysis - Twitter Data - Candidate tweets - 2016 presidential elections.ipynb*
+
 ## Data
 Historical tweets data is scraped from twitter using twitter API and by making use of Jefferson-Henrique/GetOldTweets-python project code.
 
